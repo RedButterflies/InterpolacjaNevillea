@@ -92,7 +92,9 @@ public class AlgorytmNevillea {
 
             }
         }
+
         System.out.println();
+        //Wyswietlenie tabeli wielomianow czastkowych
         for(int j=0;j<=n;j++)
         {
             for(int k=0;k<=n;k++)
